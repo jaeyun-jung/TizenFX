@@ -1,0 +1,1487 @@
+{
+  "source_base_path": "/home/runner/work/TizenFX/TizenFX",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      }
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Feedback.gif",
+      "output": {
+        "resource": {
+          "relative_path": "images/Feedback.gif"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/tizen_favicon.ico",
+      "output": {
+        "resource": {
+          "relative_path": "images/tizen_favicon.ico"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/tizen_logo.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/tizen_logo.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/internals/api/Tizen.Inspections.DataRequestReceivedEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "internals/api/Tizen.Inspections.DataRequestReceivedEventArgs.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Tizen.Inspections.DataRequestReceivedEventArgs",
+      "Summary": "<p sourcefile=\"obj/internals/api/Tizen.Inspections.DataRequestReceivedEventArgs.yml\" sourcestartlinenumber=\"1\">DataRequestReceivedEventArgs is an extended EventArgs class.\nThis class contains event arguments for the DataRequestReceived event from the Inspection class.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/internals/api/Tizen.Inspections.EventReceivedEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "internals/api/Tizen.Inspections.EventReceivedEventArgs.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Tizen.Inspections.EventReceivedEventArgs",
+      "Summary": "<p sourcefile=\"obj/internals/api/Tizen.Inspections.EventReceivedEventArgs.yml\" sourcestartlinenumber=\"1\">EventReceivedEventArgs is an extended EventArgs class.\nThis class contains event arguments for the EventReceived event from the Inspection class.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/internals/api/Tizen.Inspections.InspectionContext.yml",
+      "output": {
+        ".html": {
+          "relative_path": "internals/api/Tizen.Inspections.InspectionContext.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Tizen.Inspections.InspectionContext",
+      "Summary": "<p sourcefile=\"obj/internals/api/Tizen.Inspections.InspectionContext.yml\" sourcestartlinenumber=\"1\">The InspectionContext class is used for getting data from the context.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/internals/api/Tizen.Inspections.InspectionData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "internals/api/Tizen.Inspections.InspectionData.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Tizen.Inspections.InspectionData",
+      "Summary": "<p sourcefile=\"obj/internals/api/Tizen.Inspections.InspectionData.yml\" sourcestartlinenumber=\"1\">The InspectionData class is used for reading inspection data.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/internals/api/Tizen.Inspections.Inspector.yml",
+      "output": {
+        ".html": {
+          "relative_path": "internals/api/Tizen.Inspections.Inspector.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Tizen.Inspections.Inspector",
+      "Summary": "<p sourcefile=\"obj/internals/api/Tizen.Inspections.Inspector.yml\" sourcestartlinenumber=\"1\">The Inspector class is used for requesting client data and receiving inspection events.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/internals/api/Tizen.Inspections.yml",
+      "output": {
+        ".html": {
+          "relative_path": "internals/api/Tizen.Inspections.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Tizen.Inspections",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/internals/api/Tizen.Network.Tethering.ConnectionStateChangedEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "internals/api/Tizen.Network.Tethering.ConnectionStateChangedEventArgs.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Tizen.Network.Tethering.ConnectionStateChangedEventArgs",
+      "Summary": "<p sourcefile=\"obj/internals/api/Tizen.Network.Tethering.ConnectionStateChangedEventArgs.yml\" sourcestartlinenumber=\"1\">This class contains information related to <xref href=\"Tizen.Network.Tethering.TetheringExtensionManager.ConnectionStateChanged\" data-throw-if-not-resolved=\"false\"></xref>.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/internals/api/Tizen.Network.Tethering.TetheringDisabledCause.yml",
+      "output": {
+        ".html": {
+          "relative_path": "internals/api/Tizen.Network.Tethering.TetheringDisabledCause.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Tizen.Network.Tethering.TetheringDisabledCause",
+      "Summary": "<p sourcefile=\"obj/internals/api/Tizen.Network.Tethering.TetheringDisabledCause.yml\" sourcestartlinenumber=\"1\">Enumeration for the Tethering disabled reason.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/internals/api/Tizen.Network.Tethering.TetheringError.yml",
+      "output": {
+        ".html": {
+          "relative_path": "internals/api/Tizen.Network.Tethering.TetheringError.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Tizen.Network.Tethering.TetheringError",
+      "Summary": "<p sourcefile=\"obj/internals/api/Tizen.Network.Tethering.TetheringError.yml\" sourcestartlinenumber=\"1\">Enumeration for the Tethering error code.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/internals/api/Tizen.Network.Tethering.TetheringExtensionClient.yml",
+      "output": {
+        ".html": {
+          "relative_path": "internals/api/Tizen.Network.Tethering.TetheringExtensionClient.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Tizen.Network.Tethering.TetheringExtensionClient",
+      "Summary": "<p sourcefile=\"obj/internals/api/Tizen.Network.Tethering.TetheringExtensionClient.yml\" sourcestartlinenumber=\"1\">This class contains information related to the connected/disconnected client.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/internals/api/Tizen.Network.Tethering.TetheringExtensionDisabledEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "internals/api/Tizen.Network.Tethering.TetheringExtensionDisabledEventArgs.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Tizen.Network.Tethering.TetheringExtensionDisabledEventArgs",
+      "Summary": "<p sourcefile=\"obj/internals/api/Tizen.Network.Tethering.TetheringExtensionDisabledEventArgs.yml\" sourcestartlinenumber=\"1\">This class contains Tethering disabled event data.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/internals/api/Tizen.Network.Tethering.TetheringExtensionEnabledEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "internals/api/Tizen.Network.Tethering.TetheringExtensionEnabledEventArgs.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Tizen.Network.Tethering.TetheringExtensionEnabledEventArgs",
+      "Summary": "<p sourcefile=\"obj/internals/api/Tizen.Network.Tethering.TetheringExtensionEnabledEventArgs.yml\" sourcestartlinenumber=\"1\">This class contains Tethering enabled event data.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/internals/api/Tizen.Network.Tethering.TetheringExtensionManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "internals/api/Tizen.Network.Tethering.TetheringExtensionManager.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Tizen.Network.Tethering.TetheringExtensionManager",
+      "Summary": "<p sourcefile=\"obj/internals/api/Tizen.Network.Tethering.TetheringExtensionManager.yml\" sourcestartlinenumber=\"1\">A manager class that enables applications to create and manage a Wi-Fi hotspot, allowing devices to share an internet connection over a Wireless Local Area Network (WLAN).</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/internals/api/Tizen.Network.Tethering.TetheringExtensionMode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "internals/api/Tizen.Network.Tethering.TetheringExtensionMode.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Tizen.Network.Tethering.TetheringExtensionMode",
+      "Summary": "<p sourcefile=\"obj/internals/api/Tizen.Network.Tethering.TetheringExtensionMode.yml\" sourcestartlinenumber=\"1\">Enumeration for the Tethering Extension mode.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/internals/api/Tizen.Network.Tethering.TetheringExtensionModeChangedEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "internals/api/Tizen.Network.Tethering.TetheringExtensionModeChangedEventArgs.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Tizen.Network.Tethering.TetheringExtensionModeChangedEventArgs",
+      "Summary": "<p sourcefile=\"obj/internals/api/Tizen.Network.Tethering.TetheringExtensionModeChangedEventArgs.yml\" sourcestartlinenumber=\"1\">TetheringExtensionModeChangedEventArgs provides the mode information when the ModeChanged event is raised.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/internals/api/Tizen.Network.Tethering.TetheringInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "internals/api/Tizen.Network.Tethering.TetheringInfo.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Tizen.Network.Tethering.TetheringInfo",
+      "Summary": "<p sourcefile=\"obj/internals/api/Tizen.Network.Tethering.TetheringInfo.yml\" sourcestartlinenumber=\"1\">This class contains tethering info.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/internals/api/Tizen.Network.Tethering.TetheringSecurityType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "internals/api/Tizen.Network.Tethering.TetheringSecurityType.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Tizen.Network.Tethering.TetheringSecurityType",
+      "Summary": "<p sourcefile=\"obj/internals/api/Tizen.Network.Tethering.TetheringSecurityType.yml\" sourcestartlinenumber=\"1\">Enumeration for the Tethering Security type.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/internals/api/Tizen.Network.Tethering.TetheringType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "internals/api/Tizen.Network.Tethering.TetheringType.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Tizen.Network.Tethering.TetheringType",
+      "Summary": "<p sourcefile=\"obj/internals/api/Tizen.Network.Tethering.TetheringType.yml\" sourcestartlinenumber=\"1\">Enumeration for the Tethering type.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/internals/api/Tizen.Network.Tethering.yml",
+      "output": {
+        ".html": {
+          "relative_path": "internals/api/Tizen.Network.Tethering.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Tizen.Network.Tethering",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/internals/api/Tizen.Peripheral.Adc.AdcChannel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "internals/api/Tizen.Peripheral.Adc.AdcChannel.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Tizen.Peripheral.Adc.AdcChannel",
+      "Summary": "<p sourcefile=\"obj/internals/api/Tizen.Peripheral.Adc.AdcChannel.yml\" sourcestartlinenumber=\"1\">The class allows applications to use the platform ADC peripheral.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/internals/api/Tizen.Peripheral.Adc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "internals/api/Tizen.Peripheral.Adc.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Tizen.Peripheral.Adc",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/internals/api/Tizen.Peripheral.Gpio.GpioChangePolarity.yml",
+      "output": {
+        ".html": {
+          "relative_path": "internals/api/Tizen.Peripheral.Gpio.GpioChangePolarity.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Tizen.Peripheral.Gpio.GpioChangePolarity",
+      "Summary": "<p sourcefile=\"obj/internals/api/Tizen.Peripheral.Gpio.GpioChangePolarity.yml\" sourcestartlinenumber=\"1\">Enumeration of edge types for the GPIO interrupt.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/internals/api/Tizen.Peripheral.Gpio.GpioPin.yml",
+      "output": {
+        ".html": {
+          "relative_path": "internals/api/Tizen.Peripheral.Gpio.GpioPin.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Tizen.Peripheral.Gpio.GpioPin",
+      "Summary": "<p sourcefile=\"obj/internals/api/Tizen.Peripheral.Gpio.GpioPin.yml\" sourcestartlinenumber=\"1\">The class allows applications to use the platform Digital Pins as Input/Output.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/internals/api/Tizen.Peripheral.Gpio.GpioPinDriveMode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "internals/api/Tizen.Peripheral.Gpio.GpioPinDriveMode.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Tizen.Peripheral.Gpio.GpioPinDriveMode",
+      "Summary": "<p sourcefile=\"obj/internals/api/Tizen.Peripheral.Gpio.GpioPinDriveMode.yml\" sourcestartlinenumber=\"1\">Enumeration of GPIO direction options.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/internals/api/Tizen.Peripheral.Gpio.GpioPinValue.yml",
+      "output": {
+        ".html": {
+          "relative_path": "internals/api/Tizen.Peripheral.Gpio.GpioPinValue.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Tizen.Peripheral.Gpio.GpioPinValue",
+      "Summary": "<p sourcefile=\"obj/internals/api/Tizen.Peripheral.Gpio.GpioPinValue.yml\" sourcestartlinenumber=\"1\">Enumeration of GPIO values.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/internals/api/Tizen.Peripheral.Gpio.PinUpdatedEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "internals/api/Tizen.Peripheral.Gpio.PinUpdatedEventArgs.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Tizen.Peripheral.Gpio.PinUpdatedEventArgs",
+      "Summary": "<p sourcefile=\"obj/internals/api/Tizen.Peripheral.Gpio.PinUpdatedEventArgs.yml\" sourcestartlinenumber=\"1\">This custom class extend from EventArgs to obtain Gpio object Input Pin update.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/internals/api/Tizen.Peripheral.Gpio.yml",
+      "output": {
+        ".html": {
+          "relative_path": "internals/api/Tizen.Peripheral.Gpio.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Tizen.Peripheral.Gpio",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/internals/api/Tizen.Peripheral.I2c.I2cDevice.yml",
+      "output": {
+        ".html": {
+          "relative_path": "internals/api/Tizen.Peripheral.I2c.I2cDevice.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Tizen.Peripheral.I2c.I2cDevice",
+      "Summary": "<p sourcefile=\"obj/internals/api/Tizen.Peripheral.I2c.I2cDevice.yml\" sourcestartlinenumber=\"1\">The class allows applications to communicate via i2c platform's bus.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/internals/api/Tizen.Peripheral.I2c.yml",
+      "output": {
+        ".html": {
+          "relative_path": "internals/api/Tizen.Peripheral.I2c.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Tizen.Peripheral.I2c",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/internals/api/Tizen.Peripheral.Pwm.PwmPin.yml",
+      "output": {
+        ".html": {
+          "relative_path": "internals/api/Tizen.Peripheral.Pwm.PwmPin.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Tizen.Peripheral.Pwm.PwmPin",
+      "Summary": "<p sourcefile=\"obj/internals/api/Tizen.Peripheral.Pwm.PwmPin.yml\" sourcestartlinenumber=\"1\">The class allows applications to use the platform PWM peripheral.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/internals/api/Tizen.Peripheral.Pwm.PwmPulsePolarity.yml",
+      "output": {
+        ".html": {
+          "relative_path": "internals/api/Tizen.Peripheral.Pwm.PwmPulsePolarity.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Tizen.Peripheral.Pwm.PwmPulsePolarity",
+      "Summary": "<p sourcefile=\"obj/internals/api/Tizen.Peripheral.Pwm.PwmPulsePolarity.yml\" sourcestartlinenumber=\"1\">Enumeration for PWM polarity.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/internals/api/Tizen.Peripheral.Pwm.yml",
+      "output": {
+        ".html": {
+          "relative_path": "internals/api/Tizen.Peripheral.Pwm.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Tizen.Peripheral.Pwm",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/internals/api/Tizen.Peripheral.Spi.BitOrder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "internals/api/Tizen.Peripheral.Spi.BitOrder.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Tizen.Peripheral.Spi.BitOrder",
+      "Summary": "<p sourcefile=\"obj/internals/api/Tizen.Peripheral.Spi.BitOrder.yml\" sourcestartlinenumber=\"1\">Enumeration of bit orders.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/internals/api/Tizen.Peripheral.Spi.SpiDevice.yml",
+      "output": {
+        ".html": {
+          "relative_path": "internals/api/Tizen.Peripheral.Spi.SpiDevice.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Tizen.Peripheral.Spi.SpiDevice",
+      "Summary": "<p sourcefile=\"obj/internals/api/Tizen.Peripheral.Spi.SpiDevice.yml\" sourcestartlinenumber=\"1\">The class allows applications to communicate via SPI platform's bus.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/internals/api/Tizen.Peripheral.Spi.SpiMode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "internals/api/Tizen.Peripheral.Spi.SpiMode.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Tizen.Peripheral.Spi.SpiMode",
+      "Summary": "<p sourcefile=\"obj/internals/api/Tizen.Peripheral.Spi.SpiMode.yml\" sourcestartlinenumber=\"1\">Enumeration of SPI transfer modes.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/internals/api/Tizen.Peripheral.Spi.yml",
+      "output": {
+        ".html": {
+          "relative_path": "internals/api/Tizen.Peripheral.Spi.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Tizen.Peripheral.Spi",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/internals/api/Tizen.Peripheral.Uart.BaudRate.yml",
+      "output": {
+        ".html": {
+          "relative_path": "internals/api/Tizen.Peripheral.Uart.BaudRate.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Tizen.Peripheral.Uart.BaudRate",
+      "Summary": "<p sourcefile=\"obj/internals/api/Tizen.Peripheral.Uart.BaudRate.yml\" sourcestartlinenumber=\"1\">Enumeration for baud rate.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/internals/api/Tizen.Peripheral.Uart.DataBits.yml",
+      "output": {
+        ".html": {
+          "relative_path": "internals/api/Tizen.Peripheral.Uart.DataBits.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Tizen.Peripheral.Uart.DataBits",
+      "Summary": "<p sourcefile=\"obj/internals/api/Tizen.Peripheral.Uart.DataBits.yml\" sourcestartlinenumber=\"1\">Enumeration for byte size.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/internals/api/Tizen.Peripheral.Uart.HardwareFlowControl.yml",
+      "output": {
+        ".html": {
+          "relative_path": "internals/api/Tizen.Peripheral.Uart.HardwareFlowControl.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Tizen.Peripheral.Uart.HardwareFlowControl",
+      "Summary": "<p sourcefile=\"obj/internals/api/Tizen.Peripheral.Uart.HardwareFlowControl.yml\" sourcestartlinenumber=\"1\">Enumeration for hardware flow control.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/internals/api/Tizen.Peripheral.Uart.Parity.yml",
+      "output": {
+        ".html": {
+          "relative_path": "internals/api/Tizen.Peripheral.Uart.Parity.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Tizen.Peripheral.Uart.Parity",
+      "Summary": "<p sourcefile=\"obj/internals/api/Tizen.Peripheral.Uart.Parity.yml\" sourcestartlinenumber=\"1\">Enumeration for parity bit.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/internals/api/Tizen.Peripheral.Uart.SerialPort.yml",
+      "output": {
+        ".html": {
+          "relative_path": "internals/api/Tizen.Peripheral.Uart.SerialPort.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Tizen.Peripheral.Uart.SerialPort",
+      "Summary": "<p sourcefile=\"obj/internals/api/Tizen.Peripheral.Uart.SerialPort.yml\" sourcestartlinenumber=\"1\">The class allows applications to communicate via UART platform's bus.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/internals/api/Tizen.Peripheral.Uart.SoftwareFlowControl.yml",
+      "output": {
+        ".html": {
+          "relative_path": "internals/api/Tizen.Peripheral.Uart.SoftwareFlowControl.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Tizen.Peripheral.Uart.SoftwareFlowControl",
+      "Summary": "<p sourcefile=\"obj/internals/api/Tizen.Peripheral.Uart.SoftwareFlowControl.yml\" sourcestartlinenumber=\"1\">Enumeration for software flow control.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/internals/api/Tizen.Peripheral.Uart.StopBits.yml",
+      "output": {
+        ".html": {
+          "relative_path": "internals/api/Tizen.Peripheral.Uart.StopBits.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Tizen.Peripheral.Uart.StopBits",
+      "Summary": "<p sourcefile=\"obj/internals/api/Tizen.Peripheral.Uart.StopBits.yml\" sourcestartlinenumber=\"1\">Enumeration for stop bits.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/internals/api/Tizen.Peripheral.Uart.yml",
+      "output": {
+        ".html": {
+          "relative_path": "internals/api/Tizen.Peripheral.Uart.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Tizen.Peripheral.Uart",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/internals/api/Tizen.Uix.VoiceControlWidget.AsrResultEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "internals/api/Tizen.Uix.VoiceControlWidget.AsrResultEventArgs.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Tizen.Uix.VoiceControlWidget.AsrResultEventArgs",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/internals/api/Tizen.Uix.VoiceControlWidget.CommandFormat.yml",
+      "output": {
+        ".html": {
+          "relative_path": "internals/api/Tizen.Uix.VoiceControlWidget.CommandFormat.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Tizen.Uix.VoiceControlWidget.CommandFormat",
+      "Summary": "<p sourcefile=\"obj/internals/api/Tizen.Uix.VoiceControlWidget.CommandFormat.yml\" sourcestartlinenumber=\"1\">Enumeration for the command format.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/internals/api/Tizen.Uix.VoiceControlWidget.CommandType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "internals/api/Tizen.Uix.VoiceControlWidget.CommandType.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Tizen.Uix.VoiceControlWidget.CommandType",
+      "Summary": "<p sourcefile=\"obj/internals/api/Tizen.Uix.VoiceControlWidget.CommandType.yml\" sourcestartlinenumber=\"1\">Enumeration for the command type.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/internals/api/Tizen.Uix.VoiceControlWidget.CurrentCommandListEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "internals/api/Tizen.Uix.VoiceControlWidget.CurrentCommandListEventArgs.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Tizen.Uix.VoiceControlWidget.CurrentCommandListEventArgs",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/internals/api/Tizen.Uix.VoiceControlWidget.CurrentLanguageChangedEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "internals/api/Tizen.Uix.VoiceControlWidget.CurrentLanguageChangedEventArgs.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Tizen.Uix.VoiceControlWidget.CurrentLanguageChangedEventArgs",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/internals/api/Tizen.Uix.VoiceControlWidget.Error.yml",
+      "output": {
+        ".html": {
+          "relative_path": "internals/api/Tizen.Uix.VoiceControlWidget.Error.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Tizen.Uix.VoiceControlWidget.Error",
+      "Summary": "<p sourcefile=\"obj/internals/api/Tizen.Uix.VoiceControlWidget.Error.yml\" sourcestartlinenumber=\"1\">Enumeration for the error values that can occur.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/internals/api/Tizen.Uix.VoiceControlWidget.ErrorOccurredEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "internals/api/Tizen.Uix.VoiceControlWidget.ErrorOccurredEventArgs.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Tizen.Uix.VoiceControlWidget.ErrorOccurredEventArgs",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/internals/api/Tizen.Uix.VoiceControlWidget.RecognitionModeType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "internals/api/Tizen.Uix.VoiceControlWidget.RecognitionModeType.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Tizen.Uix.VoiceControlWidget.RecognitionModeType",
+      "Summary": "<p sourcefile=\"obj/internals/api/Tizen.Uix.VoiceControlWidget.RecognitionModeType.yml\" sourcestartlinenumber=\"1\">Enumerations of recognition mode</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/internals/api/Tizen.Uix.VoiceControlWidget.RecognitionResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "internals/api/Tizen.Uix.VoiceControlWidget.RecognitionResult.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Tizen.Uix.VoiceControlWidget.RecognitionResult",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/internals/api/Tizen.Uix.VoiceControlWidget.ResultEvent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "internals/api/Tizen.Uix.VoiceControlWidget.ResultEvent.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Tizen.Uix.VoiceControlWidget.ResultEvent",
+      "Summary": "<p sourcefile=\"obj/internals/api/Tizen.Uix.VoiceControlWidget.ResultEvent.yml\" sourcestartlinenumber=\"1\">Enumeration for the result event.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/internals/api/Tizen.Uix.VoiceControlWidget.SendEventType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "internals/api/Tizen.Uix.VoiceControlWidget.SendEventType.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Tizen.Uix.VoiceControlWidget.SendEventType",
+      "Summary": "<p sourcefile=\"obj/internals/api/Tizen.Uix.VoiceControlWidget.SendEventType.yml\" sourcestartlinenumber=\"1\">Enumerations of send event type</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/internals/api/Tizen.Uix.VoiceControlWidget.ServiceState.yml",
+      "output": {
+        ".html": {
+          "relative_path": "internals/api/Tizen.Uix.VoiceControlWidget.ServiceState.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Tizen.Uix.VoiceControlWidget.ServiceState",
+      "Summary": "<p sourcefile=\"obj/internals/api/Tizen.Uix.VoiceControlWidget.ServiceState.yml\" sourcestartlinenumber=\"1\">Enumeration for the service state.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/internals/api/Tizen.Uix.VoiceControlWidget.ServiceStateChangedEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "internals/api/Tizen.Uix.VoiceControlWidget.ServiceStateChangedEventArgs.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Tizen.Uix.VoiceControlWidget.ServiceStateChangedEventArgs",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/internals/api/Tizen.Uix.VoiceControlWidget.State.yml",
+      "output": {
+        ".html": {
+          "relative_path": "internals/api/Tizen.Uix.VoiceControlWidget.State.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Tizen.Uix.VoiceControlWidget.State",
+      "Summary": "<p sourcefile=\"obj/internals/api/Tizen.Uix.VoiceControlWidget.State.yml\" sourcestartlinenumber=\"1\">Enumeration for the client state.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/internals/api/Tizen.Uix.VoiceControlWidget.StateChangedEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "internals/api/Tizen.Uix.VoiceControlWidget.StateChangedEventArgs.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Tizen.Uix.VoiceControlWidget.StateChangedEventArgs",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/internals/api/Tizen.Uix.VoiceControlWidget.TooltipEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "internals/api/Tizen.Uix.VoiceControlWidget.TooltipEventArgs.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Tizen.Uix.VoiceControlWidget.TooltipEventArgs",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/internals/api/Tizen.Uix.VoiceControlWidget.VoiceCommand.yml",
+      "output": {
+        ".html": {
+          "relative_path": "internals/api/Tizen.Uix.VoiceControlWidget.VoiceCommand.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Tizen.Uix.VoiceControlWidget.VoiceCommand",
+      "Summary": "<p sourcefile=\"obj/internals/api/Tizen.Uix.VoiceControlWidget.VoiceCommand.yml\" sourcestartlinenumber=\"1\">This class represents a voice command.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/internals/api/Tizen.Uix.VoiceControlWidget.VoiceCommandList.yml",
+      "output": {
+        ".html": {
+          "relative_path": "internals/api/Tizen.Uix.VoiceControlWidget.VoiceCommandList.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Tizen.Uix.VoiceControlWidget.VoiceCommandList",
+      "Summary": "<p sourcefile=\"obj/internals/api/Tizen.Uix.VoiceControlWidget.VoiceCommandList.yml\" sourcestartlinenumber=\"1\">This class represents a list of the voice commands.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/internals/api/Tizen.Uix.VoiceControlWidget.VoiceControlWidget.yml",
+      "output": {
+        ".html": {
+          "relative_path": "internals/api/Tizen.Uix.VoiceControlWidget.VoiceControlWidget.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Tizen.Uix.VoiceControlWidget.VoiceControlWidget",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/internals/api/Tizen.Uix.VoiceControlWidget.yml",
+      "output": {
+        ".html": {
+          "relative_path": "internals/api/Tizen.Uix.VoiceControlWidget.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Tizen.Uix.VoiceControlWidget",
+      "Summary": null
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "obj/internals/api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "internals/api/toc.html"
+        },
+        ".json": {
+          "relative_path": "internals/api/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "repos/API15/internals/docs/api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "internals/api/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "repos/API15/internals/docs/guides/inspections.md",
+      "output": {
+        ".html": {
+          "relative_path": "internals/guides/inspections.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "repos/API15/internals/docs/guides/peripheral-gpio.md",
+      "output": {
+        ".html": {
+          "relative_path": "internals/guides/peripheral-gpio.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "repos/API15/internals/docs/guides/peripheral-i2c.md",
+      "output": {
+        ".html": {
+          "relative_path": "internals/guides/peripheral-i2c.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "repos/API15/internals/docs/guides/peripheral-pwm.md",
+      "output": {
+        ".html": {
+          "relative_path": "internals/guides/peripheral-pwm.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "repos/API15/internals/docs/guides/peripheral-spi.md",
+      "output": {
+        ".html": {
+          "relative_path": "internals/guides/peripheral-spi.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "repos/API15/internals/docs/guides/peripheral-uart.md",
+      "output": {
+        ".html": {
+          "relative_path": "internals/guides/peripheral-uart.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "repos/API15/internals/docs/guides/peripheral.md",
+      "output": {
+        ".html": {
+          "relative_path": "internals/guides/peripheral.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "repos/API15/internals/docs/guides/toc.md",
+      "output": {
+        ".html": {
+          "relative_path": "internals/guides/toc.html"
+        },
+        ".json": {
+          "relative_path": "internals/guides/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "repos/API15/internals/docs/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "internals/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "repos/API15/internals/docs/toc.md",
+      "output": {
+        ".html": {
+          "relative_path": "internals/toc.html"
+        },
+        ".json": {
+          "relative_path": "internals/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "templates/material/LICENSE",
+      "output": {
+        "resource": {
+          "relative_path": "templates/material/LICENSE"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "templates/material/partials/head.tmpl.partial",
+      "output": {
+        "resource": {
+          "relative_path": "templates/material/partials/head.tmpl.partial"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "templates/material/styles/main.css",
+      "output": {
+        "resource": {
+          "relative_path": "templates/material/styles/main.css"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "templates/tizen/favicon.ico",
+      "output": {
+        "resource": {
+          "relative_path": "templates/tizen/favicon.ico"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "templates/tizen/partials/affix.tmpl.partial",
+      "output": {
+        "resource": {
+          "relative_path": "templates/tizen/partials/affix.tmpl.partial"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "templates/tizen/partials/class.header.tmpl.partial",
+      "output": {
+        "resource": {
+          "relative_path": "templates/tizen/partials/class.header.tmpl.partial"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "templates/tizen/partials/class.tmpl.partial",
+      "output": {
+        "resource": {
+          "relative_path": "templates/tizen/partials/class.tmpl.partial"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "templates/tizen/partials/footer.tmpl.partial",
+      "output": {
+        "resource": {
+          "relative_path": "templates/tizen/partials/footer.tmpl.partial"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "templates/tizen/partials/head.tmpl.partial",
+      "output": {
+        "resource": {
+          "relative_path": "templates/tizen/partials/head.tmpl.partial"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "templates/tizen/partials/logo.tmpl.partial",
+      "output": {
+        "resource": {
+          "relative_path": "templates/tizen/partials/logo.tmpl.partial"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "templates/tizen/plugins/Tizen.DocFX.Plugins.MetadataProvider.dll",
+      "output": {
+        "resource": {
+          "relative_path": "templates/tizen/plugins/Tizen.DocFX.Plugins.MetadataProvider.dll"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "templates/tizen/styles/main.js",
+      "output": {
+        "resource": {
+          "relative_path": "templates/tizen/styles/main.js"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "templates/tizen/styles/search-worker.js",
+      "output": {
+        "resource": {
+          "relative_path": "templates/tizen/styles/search-worker.js"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "templates/tizen/styles/tizen.css",
+      "output": {
+        "resource": {
+          "relative_path": "templates/tizen/styles/tizen.css"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "templates/tizen/toc.html.liquid",
+      "output": {
+        "resource": {
+          "relative_path": "templates/tizen/toc.html.liquid"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "templates/tizen/token.json",
+      "output": {
+        "resource": {
+          "relative_path": "templates/tizen/token.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "templates/tizen_docs/favicon.ico",
+      "output": {
+        "resource": {
+          "relative_path": "templates/tizen_docs/favicon.ico"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "templates/tizen_docs/layout/_master.tmpl",
+      "output": {
+        "resource": {
+          "relative_path": "templates/tizen_docs/layout/_master.tmpl"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "templates/tizen_docs/partials/affix.tmpl.partial",
+      "output": {
+        "resource": {
+          "relative_path": "templates/tizen_docs/partials/affix.tmpl.partial"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "templates/tizen_docs/partials/breadcrumb.tmpl.partial",
+      "output": {
+        "resource": {
+          "relative_path": "templates/tizen_docs/partials/breadcrumb.tmpl.partial"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "templates/tizen_docs/partials/class.header.tmpl.partial",
+      "output": {
+        "resource": {
+          "relative_path": "templates/tizen_docs/partials/class.header.tmpl.partial"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "templates/tizen_docs/partials/class.tmpl.partial",
+      "output": {
+        "resource": {
+          "relative_path": "templates/tizen_docs/partials/class.tmpl.partial"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "templates/tizen_docs/partials/entity-title.tmpl.partial",
+      "output": {
+        "resource": {
+          "relative_path": "templates/tizen_docs/partials/entity-title.tmpl.partial"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "templates/tizen_docs/partials/enum.tmpl.partial",
+      "output": {
+        "resource": {
+          "relative_path": "templates/tizen_docs/partials/enum.tmpl.partial"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "templates/tizen_docs/partials/footer.tmpl.partial",
+      "output": {
+        "resource": {
+          "relative_path": "templates/tizen_docs/partials/footer.tmpl.partial"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "templates/tizen_docs/partials/head.tmpl.partial",
+      "output": {
+        "resource": {
+          "relative_path": "templates/tizen_docs/partials/head.tmpl.partial"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "templates/tizen_docs/partials/logo.tmpl.partial",
+      "output": {
+        "resource": {
+          "relative_path": "templates/tizen_docs/partials/logo.tmpl.partial"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "templates/tizen_docs/partials/namespace.tmpl.partial",
+      "output": {
+        "resource": {
+          "relative_path": "templates/tizen_docs/partials/namespace.tmpl.partial"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "templates/tizen_docs/partials/toc.tmpl.partial",
+      "output": {
+        "resource": {
+          "relative_path": "templates/tizen_docs/partials/toc.tmpl.partial"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "templates/tizen_docs/plugins/Tizen.DocFX.Plugins.MetadataProvider.dll",
+      "output": {
+        "resource": {
+          "relative_path": "templates/tizen_docs/plugins/Tizen.DocFX.Plugins.MetadataProvider.dll"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "templates/tizen_docs/styles/404.svg",
+      "output": {
+        "resource": {
+          "relative_path": "templates/tizen_docs/styles/404.svg"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "templates/tizen_docs/styles/docfx.css",
+      "output": {
+        "resource": {
+          "relative_path": "templates/tizen_docs/styles/docfx.css"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "templates/tizen_docs/styles/docfx.js",
+      "output": {
+        "resource": {
+          "relative_path": "templates/tizen_docs/styles/docfx.js"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "templates/tizen_docs/styles/docfx.vendor.css",
+      "output": {
+        "resource": {
+          "relative_path": "templates/tizen_docs/styles/docfx.vendor.css"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "templates/tizen_docs/styles/main.js",
+      "output": {
+        "resource": {
+          "relative_path": "templates/tizen_docs/styles/main.js"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "templates/tizen_docs/styles/search-worker.js",
+      "output": {
+        "resource": {
+          "relative_path": "templates/tizen_docs/styles/search-worker.js"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "templates/tizen_docs/styles/tizen.css",
+      "output": {
+        "resource": {
+          "relative_path": "templates/tizen_docs/styles/tizen.css"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "templates/tizen_docs/toc.html.tmpl",
+      "output": {
+        "resource": {
+          "relative_path": "templates/tizen_docs/toc.html.tmpl"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "templates/tizen_docs/token.json",
+      "output": {
+        "resource": {
+          "relative_path": "templates/tizen_docs/token.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html"
+        },
+        ".json": {
+          "relative_path": "toc.json"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
